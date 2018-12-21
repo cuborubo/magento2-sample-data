@@ -1,7 +1,6 @@
 name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,custom_layout_update
 Demo Categories,demo,,1,0,1,4,PAGE,
 1C Categories,1c_categories,,1,0,1,5,PAGE,
-Tanitkani Categories,tanitkani_categories,,1,0,1,6,PAGE,
 Gear,gear,Demo Categories,1,0,1,7,PAGE,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>"
 Bags,bags,Demo Categories/Gear,1,1,1,,,
 "Fitness Equipment",fitness-equipment,Demo Categories/Gear,1,1,1,,,
