@@ -62,7 +62,7 @@ class Installer implements Setup\SampleData\InstallerInterface
         $themes = $this->collectionFactory->create()->loadRegisteredThemes();
         /** @var \Magento\Theme\Model\Theme $theme */
         foreach ($themes as $theme) {
-            if ($theme->getCode() == 'Cuborubo/tkani') {
+            if ($theme->getCode() == 'Magento/luma') {
                 $this->config->assignToStore(
                     $theme,
                     [Store::DEFAULT_STORE_ID],
