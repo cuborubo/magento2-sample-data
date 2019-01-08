@@ -1,9 +1,13 @@
 name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,custom_layout_update
-Demo Categories,demo,,1,0,1,4,PAGE,
-1C Categories,1c_categories,,1,0,1,5,PAGE,
-Gear,gear,Demo Categories,1,0,1,7,PAGE,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>"
-Bags,bags,Demo Categories/Gear,1,1,1,,,
-"Fitness Equipment",fitness-equipment,Demo Categories/Gear,1,1,1,,,
-Watches,watches,Demo Categories/Gear,1,1,1,,,
+Demo Categories,demo,,0,0,1,4,PAGE,
+1C Categories,1c_categories,,0,0,1,5,PAGE,
+Gear,gear,Demo Categories,0,0,0,7,PAGE,"<referenceContainer name=""catalog.leftnav"" remove=""true""/>"
+Bags,bags,Demo Categories/Gear,0,1,1,,,
+"Fitness Equipment",fitness-equipment,Demo Categories/Gear,0,1,1,,,
+Watches,watches,Demo Categories/Gear,0,1,1,,,
 Collections,collections,Demo Categories,0,0,0,,PAGE,
-"New Luma Yoga Collection",yoga-new,Demo Categories/Collections,1,1,0,,,
+"New Luma Yoga Collection",yoga-new,Demo Categories/Collections,0,1,0,,,
+Ткани для одежды,tkani-dlya-odezhdy,,1,0,1,1,,
+Домашний текстиль,domashniy-textil,,1,0,1,1,,
+Фурнитура,furnitura,,1,0,1,1,,
+Оборудование,оборудование,,1,0,1,1,,
